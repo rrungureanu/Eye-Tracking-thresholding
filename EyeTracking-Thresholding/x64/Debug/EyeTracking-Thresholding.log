@@ -1,0 +1,32 @@
+﻿  Source.cpp
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(49): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(102): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(132): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\rrung\source\repos\eyetracking-thresholding\eyetracking-thresholding\source.cpp(133): warning C4244: 'argument': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  EyeTracking-Thresholding.vcxproj -> C:\Users\rrung\source\repos\EyeTracking-Thresholding\x64\Debug\EyeTracking-Thresholding.exe
